@@ -3,7 +3,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        string connectionString = "Server=DESKTOP-9LK813Q;Database=USERS;Trusted_Connection=True;TrustServerCertificate=True";
+        string connectionString = "Server=SEU_BD;Database=USERS;Trusted_Connection=True;TrustServerCertificate=True";
 
         //nome
         Console.WriteLine("Por favor, digite seu nome: ");
